@@ -1,4 +1,4 @@
-Telegram ChatBot: t.me/cornell_ywleung_bot
+Telegram ChatBot: t.me/cornell_ywleung_bot (Server closed due to end of free trial month)
 
 Cornell movie dialogue and OpenSubtitles movie dialogue are used to train this ChatBot. These two datasets aren't uploaded to github because they can be downloaded easily on google.
 
